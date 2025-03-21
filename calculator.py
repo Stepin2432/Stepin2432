@@ -14,6 +14,5 @@ elif operation == "/":
         result = "Error! Division by zero."
 else:
     result = "Invalid operation!"
-
 print(f"The result is: {result}")
 
